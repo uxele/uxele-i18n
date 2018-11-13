@@ -24,4 +24,4 @@ function getCurLang() {
     return curLang;
 }
 exports.getCurLang = getCurLang;
-//# sourceMappingURL=/Users/kxiang/work/projects/psdetch/v3-new/psdetch-i18n/src/lang.js.map
+//# sourceMappingURL=/Users/kxiang/work/projects/psdetch/v3-new/uxele-i18n/src/lang.js.map
